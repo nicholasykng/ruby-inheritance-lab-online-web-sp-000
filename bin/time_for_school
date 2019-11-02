@@ -17,7 +17,7 @@ andrew.first_name = "Andrew"
 andrew.last_name = "Zimmern"
 
 
-some_knowledge = avi.teach 
+some_knowledge = avi.teach
 
 steve.learn(some_knowledge)
 andrew.learn(some_knowledge)
